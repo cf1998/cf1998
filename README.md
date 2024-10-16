@@ -3,7 +3,7 @@
 
 
 
-## Favorite Tech<
+## 🤓 Favorite Tech
 
 <table>
   <tr>
@@ -65,7 +65,7 @@
 </table>
 
 
-## Open source projects
+## 🚀 Open source projects
 
 
 <table>
