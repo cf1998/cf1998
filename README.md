@@ -22,14 +22,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kubesre/docker-registry-mirrors?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/kubesre/genbu.git"><b>Docker Registry Mirrors</b></a></td>
+      <td><a href="https://github.com/kubesre/genbu.git"><b>Genbu</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kubesre/genbu?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kubesre/genbu?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kubesre/genbu?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kubesre/genbu?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/kubesre/go-easy-admin.git"><b>Docker Registry Mirrors</b></a></td>
+      <td><a href="https://github.com/kubesre/go-easy-admin.git"><b>Go Easy Admin</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kubesre/go-easy-admin?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kubesre/go-easy-admin?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kubesre/go-easy-admin?style=flat-square&labelColor=343b41"/></td>
