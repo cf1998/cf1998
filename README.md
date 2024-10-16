@@ -37,3 +37,10 @@
     </tr>
   </tbody>
 </table>
+
+
+<h3>Portfolio</h3>
+
+> *pending...*
+
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=cf1998&show_icons=true&theme=dracula&hide=stars,issues)
