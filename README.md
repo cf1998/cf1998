@@ -43,6 +43,12 @@
       </a>
       <br>Docker
     </td>
+     <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://avatars.githubusercontent.com/u/23534644?s=48&v=4" width="48" height="48" alt="Istio" />
+      </a>
+      <br>Istio
+    </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
