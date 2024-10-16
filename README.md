@@ -39,8 +39,7 @@
 </table>
 
 
-<h3>Portfolio</h3>
+## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cf1998&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cf1998&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cf1998&theme=gruvbox" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cf1998&layout=compact&count_private=true&theme=gruvbox" /> 
