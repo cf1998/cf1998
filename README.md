@@ -27,7 +27,7 @@
     </td>
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/prometheus.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://avatars.githubusercontent.com/u/66682517?s=48&v=4" width="48" height="48" alt="Prometheus" />
       </a>
       <br>TypeScript
     </td>
