@@ -43,6 +43,12 @@
       </a>
       <br>JavaScript
     </td>
+       <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
   </tr>
 </table>
 
