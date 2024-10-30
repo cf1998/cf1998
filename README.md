@@ -35,31 +35,13 @@
       <a href="#macropower-tech" >
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
       </a>
-      <br>Kubernetes
+      <br>Nginx
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Docker
-    </td>
-     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://avatars.githubusercontent.com/u/23534644?s=48&v=4" width="48" height="48" alt="Istio" />
-      </a>
-      <br>Istio
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <br>JavaScript
     </td>
   </tr>
 </table>
