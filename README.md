@@ -9,31 +9,31 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Golang" />
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Go
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Python
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://avatars.githubusercontent.com/u/66682517?s=48&v=4" width="48" height="48" alt="Prometheus" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Prometheus
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
       </a>
       <br>Kubernetes
     </td>
