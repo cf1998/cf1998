@@ -9,7 +9,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
